@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoder","timestamp":1536664592112,"sparkVersion":"2.3.0.cloudera3","uid":"OneHotEncoder_461f9c3f6afd73ed3ef6","paramMap":{"dropLast":true,"outputCol":"MARITALvec","inputCol":"MARITALindex"}}

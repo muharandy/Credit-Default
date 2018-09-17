@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1536664592383,"sparkVersion":"2.3.0.cloudera3","uid":"VectorAssembler_437c899f14981eaca57f","paramMap":{"outputCol":"features","inputCols":["LIMIT_BAL","MARITALvec","EDUCATIONvec","SEXvec","AGE","DELAY1","DELAY2","BILLING1","BILLING2","PAYMENT1","PAYMENT2"]}}
